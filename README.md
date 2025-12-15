@@ -248,8 +248,6 @@ forge test -vvv
 ## 📚 Resources
 
 - [RareSkills ZK Bootcamp](https://www.rareskills.io/)
-- [Notion Documentation](https://almondine-song-c43.notion.site/)
-- [Vitalik's zkSNARKs Explainer](https://vitalik.ca/general/2021/01/26/snarks.html)
 - [Why and How zkSNARK Works](https://arxiv.org/abs/1906.07221)
 - [Groth16 Paper](https://eprint.iacr.org/2016/260.pdf)
 - [BN128 Curve Specification](https://hackmd.io/@jpw/bn254)
